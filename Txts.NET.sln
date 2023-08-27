@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Txts.NET", "Txts.NET\Txts.NET.csproj", "{9054EAA6-5416-4124-BAA4-42CFC95D4908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Txts.NET.Zoo", "Txts.NET.Zoo\Txts.NET.Zoo.csproj", "{BE3F90B3-8E90-4E92-8F8C-7B4965C5ED3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Txts.NET.Tests", "Txts.NET.Tests\Txts.NET.Tests.csproj", "{41F0210E-692E-4946-9578-29057EDD0591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9054EAA6-5416-4124-BAA4-42CFC95D4908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9054EAA6-5416-4124-BAA4-42CFC95D4908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9054EAA6-5416-4124-BAA4-42CFC95D4908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9054EAA6-5416-4124-BAA4-42CFC95D4908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE3F90B3-8E90-4E92-8F8C-7B4965C5ED3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3F90B3-8E90-4E92-8F8C-7B4965C5ED3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3F90B3-8E90-4E92-8F8C-7B4965C5ED3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3F90B3-8E90-4E92-8F8C-7B4965C5ED3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41F0210E-692E-4946-9578-29057EDD0591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41F0210E-692E-4946-9578-29057EDD0591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41F0210E-692E-4946-9578-29057EDD0591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41F0210E-692E-4946-9578-29057EDD0591}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
