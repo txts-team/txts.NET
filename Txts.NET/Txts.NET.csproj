@@ -14,9 +14,7 @@
         <PackageReleaseNotes>First commit</PackageReleaseNotes>
         <PackageReadmeFile>README.md</PackageReadmeFile>
     </PropertyGroup>
-
-
-
+    
     <ItemGroup>
       <PackageReference Include="HtmlAgilityPack" Version="1.11.52" />
     </ItemGroup>
