@@ -11,12 +11,18 @@
         <PackageProjectUrl>https://github.com/txts-team/txts.NET</PackageProjectUrl>
         <PackageLicenseUrl>https://github.com/txts-team/txts.NET/blob/master/LICENSE</PackageLicenseUrl>
         <RepositoryUrl>https://github.com/txts-team/txts.NET</RepositoryUrl>
+        <PackageReleaseNotes>First commit</PackageReleaseNotes>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
     </PropertyGroup>
 
 
 
     <ItemGroup>
       <PackageReference Include="HtmlAgilityPack" Version="1.11.52" />
+    </ItemGroup>
+    
+    <ItemGroup>
+        <None Include="README.md" Pack="true" PackagePath="\"/>
     </ItemGroup>
 
 </Project>
